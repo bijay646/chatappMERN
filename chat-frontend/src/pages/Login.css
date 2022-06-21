@@ -1,0 +1,9 @@
+.login__bg{
+    background-image:url('../assets/loginbg.jpg');
+    height: 85vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+
+}
