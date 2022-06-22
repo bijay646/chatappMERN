@@ -2,7 +2,7 @@
 
 # dependencies
 /chat-backend/node_modules
-/chat-frontend/node_modules
+/chat-backend/chat-frontend/node_modules
 /.pnp
 .pnp.js
 /chat-backend/connection.js
